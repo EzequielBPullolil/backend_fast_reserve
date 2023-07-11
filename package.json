@@ -1,0 +1,9 @@
+{
+  "name": "backend_fast_reserve",
+  "version": "0.0.1",
+  "description": "It is the RESTful api of the fast_reserve project",
+  "main": "index.js",
+  "repository": "https://github.com/EzequielK-source/backend_fast_reserve.git",
+  "author": "EzequielK-source <programacionezequielk@gmail.com>",
+  "license": "MIT"
+}

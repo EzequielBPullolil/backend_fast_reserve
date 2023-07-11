@@ -1,0 +1,17 @@
+.DS_Store
+
+/node_modules
+npm-debug.log
+yarn-error.log
+
+/build
+/dist
+
+/logs
+
+.env
+
+*.log
+*.pid
+*.seed
+*.pid.lock
